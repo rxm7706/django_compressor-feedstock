@@ -3,26 +3,27 @@ About django-compressor-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django_compressor-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/django-compressor/django-compressor
+Home: https://pypi.org/project/django-compressor
 
 Package license: MIT
 
-Summary: Compresses linked and inline javascript or CSS into a single cached file.
+Summary: Compresses linked and inline JavaScript or CSS into single cached files.
 
 Development: https://github.com/django-compressor/django-compressor
 
 Documentation: https://django-compressor.readthedocs.io/en/latest/
 
-Django Compressor processes, combines and minifies linked and inline Javascript or CSS in a Django template into cacheable static files. It supports compilers such as coffeescript, LESS and SASS and is extensible by custom processing steps. Django Compressor is compatible with Django 1.8 and newer.
+Compresses linked and inline JavaScript or CSS into single cached files.
 
 Current build status
 ====================
 
 
-<table><tr><td>All platforms:</td>
+<table><tr>
+    <td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=3868&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/django_compressor-feedstock?branchName=main">
+      <a href="https://github.com/conda-forge/django_compressor-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/django_compressor-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
       </a>
     </td>
   </tr>
